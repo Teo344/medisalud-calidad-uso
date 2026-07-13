@@ -7,7 +7,7 @@ import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_INPUT = Path.home() / "Downloads" / "incidentes_2025_iso_25022.csv"
+DEFAULT_INPUT = ROOT / "data" / "incidentes_2025_iso_25022.csv"
 DEFAULT_OUTPUT = ROOT / "data" / "incidentes_2025_clasificados_iso25022.csv"
 
 

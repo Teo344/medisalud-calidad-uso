@@ -88,7 +88,7 @@ siguiendo el ciclo que se trabajará en los siguientes escenarios del taller:
 
 ---
 
-## 3. Próximos pasos
+## 3.  Conclusión Parcial
 
 Este análisis inicial evidencia la brecha entre percepción y evidencia en MediSalud.
 En el **Escenario 2** se formalizará el vocabulario técnico (las cinco características de
