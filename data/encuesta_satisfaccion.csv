@@ -1,0 +1,151 @@
+respuesta_id,sede,rol,puntaje_csat,comentario
+1,Quito,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+2,Manta,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+3,Cuenca,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+4,Guayaquil,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+5,Ambato,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+6,Quito,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+7,Quito,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+8,Quito,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+9,Guayaquil,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+10,Guayaquil,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+11,Guayaquil,Paciente,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+12,Ambato,Admision,4,El sistema permitio completar la tarea con pocas fricciones.
+13,Quito,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+14,Guayaquil,Enfermeria,5,"La experiencia fue clara, rapida y confiable."
+15,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+16,Quito,Admision,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+17,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+18,Manta,Admision,4,El sistema permitio completar la tarea con pocas fricciones.
+19,Quito,Farmacia,4,El sistema permitio completar la tarea con pocas fricciones.
+20,Quito,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+21,Quito,Admision,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+22,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+23,Guayaquil,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.
+24,Guayaquil,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.
+25,Manta,Admision,4,El sistema permitio completar la tarea con pocas fricciones.
+26,Quito,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.
+27,Ambato,Admision,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+28,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+29,Guayaquil,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+30,Cuenca,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+31,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+32,Cuenca,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+33,Cuenca,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+34,Cuenca,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+35,Manta,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+36,Ambato,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+37,Quito,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+38,Guayaquil,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+39,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+40,Guayaquil,Paciente,5,"La experiencia fue clara, rapida y confiable."
+41,Quito,Gerencia,4,El sistema permitio completar la tarea con pocas fricciones.
+42,Cuenca,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+43,Guayaquil,Gerencia,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+44,Cuenca,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+45,Manta,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+46,Manta,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+47,Quito,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+48,Guayaquil,Enfermeria,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+49,Cuenca,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+50,Ambato,Paciente,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+51,Quito,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+52,Cuenca,Gerencia,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+53,Quito,Enfermeria,5,"La experiencia fue clara, rapida y confiable."
+54,Manta,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+55,Quito,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+56,Guayaquil,Farmacia,4,El sistema permitio completar la tarea con pocas fricciones.
+57,Ambato,Admision,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+58,Guayaquil,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+59,Quito,Admision,5,"La experiencia fue clara, rapida y confiable."
+60,Manta,Enfermeria,5,"La experiencia fue clara, rapida y confiable."
+61,Quito,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.
+62,Cuenca,Medico,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+63,Cuenca,Farmacia,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+64,Quito,Enfermeria,5,"La experiencia fue clara, rapida y confiable."
+65,Ambato,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+66,Manta,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+67,Guayaquil,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+68,Quito,Admision,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+69,Manta,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+70,Guayaquil,Gerencia,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+71,Manta,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+72,Quito,Farmacia,4,El sistema permitio completar la tarea con pocas fricciones.
+73,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+74,Guayaquil,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+75,Cuenca,Paciente,5,"La experiencia fue clara, rapida y confiable."
+76,Guayaquil,Medico,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+77,Cuenca,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+78,Quito,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+79,Quito,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+80,Guayaquil,Gerencia,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+81,Cuenca,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+82,Quito,Medico,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+83,Quito,Medico,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+84,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+85,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+86,Cuenca,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+87,Cuenca,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+88,Guayaquil,Admision,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+89,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+90,Ambato,Admision,5,"La experiencia fue clara, rapida y confiable."
+91,Cuenca,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+92,Ambato,Medico,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+93,Quito,Paciente,5,"La experiencia fue clara, rapida y confiable."
+94,Manta,Farmacia,4,El sistema permitio completar la tarea con pocas fricciones.
+95,Guayaquil,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+96,Guayaquil,Medico,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+97,Manta,Paciente,5,"La experiencia fue clara, rapida y confiable."
+98,Guayaquil,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+99,Quito,Paciente,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+100,Quito,Medico,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+101,Ambato,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+102,Guayaquil,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+103,Guayaquil,Farmacia,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+104,Quito,Admision,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+105,Quito,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+106,Quito,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+107,Quito,Farmacia,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+108,Quito,Enfermeria,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+109,Guayaquil,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+110,Guayaquil,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+111,Guayaquil,Paciente,5,"La experiencia fue clara, rapida y confiable."
+112,Guayaquil,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+113,Quito,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+114,Guayaquil,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.
+115,Cuenca,Gerencia,4,El sistema permitio completar la tarea con pocas fricciones.
+116,Cuenca,Admision,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+117,Ambato,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+118,Guayaquil,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+119,Cuenca,Medico,5,"La experiencia fue clara, rapida y confiable."
+120,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+121,Cuenca,Gerencia,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+122,Guayaquil,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+123,Guayaquil,Enfermeria,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+124,Manta,Medico,1,La experiencia fue muy frustrante y no pude completar la tarea con confianza.
+125,Quito,Gerencia,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+126,Quito,Paciente,5,"La experiencia fue clara, rapida y confiable."
+127,Guayaquil,Admision,4,El sistema permitio completar la tarea con pocas fricciones.
+128,Cuenca,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+129,Quito,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+130,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+131,Manta,Paciente,5,"La experiencia fue clara, rapida y confiable."
+132,Quito,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+133,Cuenca,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+134,Guayaquil,Admision,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+135,Guayaquil,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+136,Ambato,Medico,4,El sistema permitio completar la tarea con pocas fricciones.
+137,Cuenca,Medico,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+138,Cuenca,Paciente,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+139,Manta,Paciente,5,"La experiencia fue clara, rapida y confiable."
+140,Cuenca,Farmacia,4,El sistema permitio completar la tarea con pocas fricciones.
+141,Guayaquil,Paciente,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+142,Quito,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.
+143,Quito,Admision,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+144,Quito,Farmacia,3,"La experiencia fue aceptable, aunque hay puntos de mejora."
+145,Guayaquil,Enfermeria,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+146,Manta,Gerencia,2,"El sistema funciono, pero requirio demasiados intentos y apoyo."
+147,Quito,Paciente,4,El sistema permitio completar la tarea con pocas fricciones.
+148,Manta,Admision,4,El sistema permitio completar la tarea con pocas fricciones.
+149,Quito,Enfermeria,5,"La experiencia fue clara, rapida y confiable."
+150,Cuenca,Enfermeria,4,El sistema permitio completar la tarea con pocas fricciones.

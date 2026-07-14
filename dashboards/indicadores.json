@@ -1,0 +1,84 @@
+{
+  "generado_en": "2026-07-14T03:44:32.408743+00:00",
+  "sistema": "MediSalud HIS",
+  "norma": "ISO/IEC 25022",
+  "metricas": {
+    "efectividad": {
+      "nombre": "Completitud de registro de HCE",
+      "caracteristica": "Efectividad",
+      "valor": 0.9651,
+      "unidad": "proporcion",
+      "umbral": 0.95,
+      "cumple": true,
+      "detalle": "3040 de 3150 registros completados"
+    },
+    "eficiencia": {
+      "nombre": "Tiempo promedio de registro de HCE",
+      "caracteristica": "Eficiencia",
+      "valor": 7.43,
+      "unidad": "segundos",
+      "umbral": 8.0,
+      "cumple": true,
+      "detalle": "Promedio de tiempo_segundos en logs_hce.csv"
+    },
+    "satisfaccion": {
+      "nombre": "Indice de satisfaccion CSAT normalizado",
+      "caracteristica": "Satisfaccion",
+      "valor": 0.6253,
+      "unidad": "proporcion 0-1",
+      "umbral": 0.8,
+      "cumple": false,
+      "detalle": "CSAT promedio 3.13 sobre 5"
+    },
+    "libertad_riesgo": {
+      "nombre": "Tasa de errores de facturacion",
+      "caracteristica": "Libertad de Riesgo",
+      "valor": 0.05,
+      "unidad": "proporcion",
+      "umbral": 0.01,
+      "cumple": false,
+      "detalle": "425 incidentes de facturacion / 8500 transacciones"
+    },
+    "cobertura_contexto": {
+      "nombre": "Cobertura de contexto por sede",
+      "caracteristica": "Cobertura de Contexto",
+      "valor": 1.0,
+      "unidad": "proporcion de sedes que cumplen eficiencia",
+      "umbral": 1.0,
+      "cumple": true,
+      "detalle": "5 de 5 sedes cumplen tiempo <= 8.0s"
+    }
+  },
+  "eficiencia_por_sede": [
+    {
+      "sede": "Ambato",
+      "eventos": 450,
+      "tiempo_promedio_segundos": 7.48,
+      "porcentaje_completado": 0.96
+    },
+    {
+      "sede": "Cuenca",
+      "eventos": 450,
+      "tiempo_promedio_segundos": 7.4,
+      "porcentaje_completado": 0.9578
+    },
+    {
+      "sede": "Guayaquil",
+      "eventos": 900,
+      "tiempo_promedio_segundos": 7.37,
+      "porcentaje_completado": 0.9711
+    },
+    {
+      "sede": "Manta",
+      "eventos": 450,
+      "tiempo_promedio_segundos": 7.52,
+      "porcentaje_completado": 0.9622
+    },
+    {
+      "sede": "Quito",
+      "eventos": 900,
+      "tiempo_promedio_segundos": 7.43,
+      "porcentaje_completado": 0.9667
+    }
+  ]
+}
